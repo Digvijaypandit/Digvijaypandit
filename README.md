@@ -20,8 +20,26 @@
 ## 🛠️ **Tech Stack**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,angular,react,react-native,nodejs,express,nextjs,nestjs,python,django,mongodb,postgres,redis,docker,git,github,gitlab,vscode,linux," />
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,angular,react,nodejs,express,nextjs,nestjs,python,django,mongodb,postgres,redis,docker,git,github,gitlab,vscode,linux" />
 </p>
+
+---
+
+![Software Engineering](https://img.shields.io/badge/Software_Engineering-Principles-blue)
+![Clean Code](https://img.shields.io/badge/Clean_Code-Readable%20%26%20Maintainable-green)
+![Backend](https://img.shields.io/badge/Backend-APIs-green)
+![Databases](https://img.shields.io/badge/Databases-SQL%20%26%20NoSQL-blue)
+![Git](https://img.shields.io/badge/Git-Version_Control-red)
+![Debugging](https://img.shields.io/badge/Debugging-Problem_Solving-lightgrey)
+
+![Generative AI](https://img.shields.io/badge/Generative_AI-LLMs-blue)
+![OpenAI](https://img.shields.io/badge/OpenAI-API-black)
+![LangChain](https://img.shields.io/badge/LangChain-LLM_Framework-green)
+
+![Docker](https://img.shields.io/badge/Docker-Containerization-blue)
+![Linux](https://img.shields.io/badge/Linux-Server_Environment-black)
+
+![React Native](https://img.shields.io/badge/React_Native-Mobile_App_Development-blue)
 
 ---
 
